@@ -1,7 +1,7 @@
 - 👋 Hi, We are @digitalbrum
 - 👀 We are a software development company specialising in web applications
 - 💞️ We are looking to collaborate on different projects
-- 📫 How to reach us... by email
+- 📫 How to reach us... info@digitalbrum.uk
 
 <!---
 digitalbrum/digitalbrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
